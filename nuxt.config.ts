@@ -2,6 +2,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   // https://nuxt.com/docs/api/nuxt-config#srcdir
-  serverDir: 'src/',
+  srcDir: 'src/',
   modules: ['@nuxt/ui'],
 })
