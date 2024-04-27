@@ -1,3 +1,5 @@
 <template>
-  <div>home</div>
+  <div>
+    <fg-content :line="40" />
+  </div>
 </template>
